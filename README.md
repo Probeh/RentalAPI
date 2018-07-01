@@ -1,5 +1,10 @@
 # RentalAPI
 
+![](https://github.com/YoniProbeh/RentalAPI/blob/master/Client/src/img/overview-min.gif?raw=true)
+
+=================================================================================
+# Project Setup
+
 ## 1. Server Setup
 
 **Initialize & Run Server Locally**
