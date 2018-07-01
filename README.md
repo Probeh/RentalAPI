@@ -5,7 +5,7 @@
 =================================================================================
 # Project Setup
 
-## 1. Server Setup
+## 1. Start The Server
 
 **Initialize & Run Server Locally**
 
