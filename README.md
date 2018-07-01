@@ -1,4 +1,4 @@
-RentalAPI Project Setup
+# RentalAPI Project Setup
 
 ## 1. Server Setup
 
