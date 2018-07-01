@@ -1,6 +1,6 @@
 RentalAPI Project Setup
 
-##1. Server Setup##
+## 1. Server Setup
 
 **Initialize & Run Server Locally**
 
@@ -8,7 +8,7 @@ RentalAPI Project Setup
 
 =================================================================================
 
-##2. Client Setup##
+## 2. Client Setup##
 
 ** 1. Install Node Dependencies**
 
