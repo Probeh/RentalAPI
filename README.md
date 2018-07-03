@@ -15,7 +15,7 @@ It Is Necessary To First Properly Initialize And And Run The Server - Otherwise 
 
 ![](https://github.com/YoniProbeh/RentalAPI/blob/master/Server/Library/img/build-min.gif?raw=true)
 
-**As Displayed Above, To Initalize The Server You Must First Open The Solution In Visual Studio**
+**As Displayed Above, In Order To Initalize The Server You Must First Open The Solution In Visual Studio**
 1. Go To The Package Manager Console At The Bottom Of The Screen => Select "Data" As The Default Project
 2. In The Solution Explorer, Right Click On The "Data" Project" => Select `Set As Startup Project`
 3. Enter `Update-Database` => Click Enter (Verifying That All Seed Methods Were Executed And The Database Is Updated Accordingly
