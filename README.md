@@ -22,6 +22,7 @@ It Is Necessary To First Properly Initialize And And Run The Server - Otherwise 
 4. In The Solution Explorer, Right Click On The "Server" Project => Select `Setup As Default Project`
 5. Now Press `ctrl+F5` To Compile And Run The Application
 6. To Test The API's Quality, Navigate In The Browser To `https://localhost:56004/api/Vehicles` To See If Any Values Were Retrieved
+
 =================================================================================
 
 ## 2. Client Setup
